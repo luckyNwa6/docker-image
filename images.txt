@@ -1,2 +1,3 @@
 nginx
 quay.io/prometheus/node-exporter:latest
+imaegoo/twikoo
