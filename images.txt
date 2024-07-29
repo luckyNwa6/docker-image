@@ -2,3 +2,4 @@ nginx
 quay.io/prometheus/node-exporter:latest
 imaegoo/twikoo
 1panel/maxkb
+ollama/ollama
