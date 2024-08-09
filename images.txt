@@ -3,3 +3,12 @@ quay.io/prometheus/node-exporter:latest
 imaegoo/twikoo
 1panel/maxkb
 ollama/ollama
+mysql:5.7.17
+mysql:8.2.0
+1panel/maxkb:v1.3.0
+tomcat:8
+elasticsearch:7.12.1
+kibana:7.12.1
+postgres:13.1
+joplin/server:latest
+kodcloud/kodbox
