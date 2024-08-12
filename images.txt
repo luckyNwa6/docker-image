@@ -12,3 +12,4 @@ kibana:7.12.1
 postgres:13.1
 joplin/server:latest
 kodcloud/kodbox
+portainer/portainer
