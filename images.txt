@@ -15,3 +15,4 @@ kodcloud/kodbox
 portainer/portainer-ce:2.9.1
 prom/alertmanager
 gitlab/gitlab-ce:14.3.6-ce.0
+twang2218/gitlab-ce-zh:11.1
