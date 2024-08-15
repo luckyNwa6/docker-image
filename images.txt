@@ -14,4 +14,4 @@ joplin/server:latest
 kodcloud/kodbox
 portainer/portainer-ce:2.9.1
 prom/alertmanager
-gitlab/gitlab-ce:14.3.6-ce.0
+gitlab/gitlab-ce:14.0.12
