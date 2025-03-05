@@ -15,3 +15,5 @@ portainer/portainer-ce:2.9.1
 prom/alertmanager
 joplin/server:3-beta
 joplin/server:2.2.7-beta
+nacos/nacos-server:v2.3.2
+nacos/nacos-server:v2.1.1
