@@ -18,4 +18,4 @@ joplin/server:2.2.7-beta
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:v2.1.1
 eclipse-temurin:21-jre
-harryliu888/cosyvoice:latest
+
