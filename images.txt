@@ -9,6 +9,7 @@ tomcat:8
 elasticsearch:7.12.1
 elasticsearch:8.12.2
 kibana:7.12.1
+kibana:8.12.2
 postgres:13.1
 joplin/server:latest
 kodcloud/kodbox
