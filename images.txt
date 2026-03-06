@@ -20,3 +20,4 @@ nacos/nacos-server:v2.1.1
 eclipse-temurin:21-jre
 xcsoft/busuanzi:v2.8.10
 redis:alpine
+rustdesk/rustdesk-server:1
